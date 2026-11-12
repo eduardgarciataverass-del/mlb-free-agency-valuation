@@ -1,6 +1,6 @@
 # Modelo de Valoración Sabermétrica de Agentes Libres de la MLB 2027
 
-<img src="Gemini_Generated_Image_i94b94i94b94i94b.png" width="100%">
+<img src="Imagen generada por Gemini_i94b94i94b94i94b.jfif" width="100%">
 
 ## 📌 Descripción General
 
