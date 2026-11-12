@@ -1,6 +1,6 @@
 # Modelo de Valoración Sabermétrica de Agentes Libres de la MLB 2027
 
-![](./mlb_montecarlo_surplus.png)
+<img src="Gemini_Generated_Image_i94b94i94b94i94b.png" width="100%">
 
 ## 📌 Descripción General
 
